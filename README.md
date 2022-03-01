@@ -1,1 +1,1 @@
-# [STOP russian INVASION](https://gloryofukraine.github.io/stop-russian-invasion)
+# [STOP russian INVASION](https://gloryofukraine.github.io/Stop-Russian-Invasion/)
