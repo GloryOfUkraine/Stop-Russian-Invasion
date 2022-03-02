@@ -76,7 +76,7 @@
 	"http://www.nwudc.ru",
 	"http://www.center-inform.ru",
 	"https://kk.bank/UdTs",
-	"http://structure.mil.ru/structure/uc/info.htm",
+	"http://structure.mil.ru/structure/uc/info.html",
 	"http://www.ucpir.ru",
 	"http://dreamkas.ru",
 	"http://www.e-portal.ru",
@@ -194,5 +194,7 @@
 	"https://shop-rt.com",
 	"https://api.developer.sber.ru/product/SberbankID",
 	"https://109.207.1.118/",
-	"https://109.207.1.97/"
+	"https://109.207.1.97/",
+	"https://scr.online.sberbank.ru/api/fl/idgib-w-3ds",
+	"https://3dsec.sberbank.ru/mportal3/auth/login"
 ]
